@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JBake</title>
+    <link>http://jbake.org</link>
+    <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description>JBake Bootstrap Template</description>
+    <language>en-gb</language>
+    <pubDate>Tue, 13 Jan 2015 23:51:51 +0400</pubDate>
+    <lastBuildDate>Tue, 13 Jan 2015 23:51:51 +0400</lastBuildDate>
+
+    <item>
+      <title>Тест блога</title>
+      <link>http://jbake.org/blog/2015/test.html</link>
+      <pubDate>Tue, 13 Jan 2015 00:00:00 +0400</pubDate>
+      <guid isPermaLink="false">blog/2015/test.html</guid>
+      <description>&amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.&amp;lt;/p&amp;gt;</description>	  
+    </item>
+
+  </channel> 
+</rss>
