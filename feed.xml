@@ -5,15 +5,23 @@
     <atom:link href="http://jbake.org/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Wed, 14 Jan 2015 00:41:35 +0400</pubDate>
-    <lastBuildDate>Wed, 14 Jan 2015 00:41:35 +0400</lastBuildDate>
+    <pubDate>Thu, 15 Jan 2015 21:21:55 +0400</pubDate>
+    <lastBuildDate>Thu, 15 Jan 2015 21:21:55 +0400</lastBuildDate>
 
     <item>
-      <title>Тест блога</title>
-      <link>http://jbake.org/blog/2015/test.html</link>
-      <pubDate>Tue, 13 Jan 2015 00:00:00 +0400</pubDate>
-      <guid isPermaLink="false">blog/2015/test.html</guid>
-      <description>&amp;lt;p&amp;gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel diam purus. Curabitur ut nisi lacus.&amp;lt;/p&amp;gt;</description>	  
+      <title>Agfa Vista Plus 200</title>
+      <link>http://jbake.org/blog/2015/agfalavista.html</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0400</pubDate>
+      <guid isPermaLink="false">blog/2015/agfalavista.html</guid>
+      <description>&amp;lt;p&amp;gt;А вот кому Agfa Vista Plus 200! Говорят, правда, что это уже Fuji.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Настроив пару кривых Photoshop, можно получить из raw одинаковый контраст и цвет для всех кадров пленки&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;/images/2014.10.06/AA025.jpg&amp;quot; alt=&amp;quot; &amp;quot;&amp;quot;/&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;&amp;lt;img src=&amp;quot;/images/2014.10.06/AA035.jpg&amp;quot; alt=&amp;quot; &amp;quot;&amp;quot;/&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;h1&amp;gt;И на закуску&amp;lt;/h1&amp;gt;&amp;lt;p&amp;gt;Очень контрастный сюжет&amp;lt;br/&amp;gt;&amp;lt;img src=&amp;quot;/images/2014.10.06/AA023.jpg&amp;quot; alt=&amp;quot; &amp;quot;&amp;quot;/&amp;gt;&amp;lt;/p&amp;gt;</description>	  
+    </item>
+
+    <item>
+      <title>Raw? Зачем?</title>
+      <link>http://jbake.org/blog/2015/whyraw.html</link>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0400</pubDate>
+      <guid isPermaLink="false">blog/2015/whyraw.html</guid>
+      <description>&amp;lt;p&amp;gt;Я часто снимаю на просроченную пленку. Дешево и сердито!&amp;lt;br/&amp;gt;Проблема в том, что такая пленка при проявке обычно даёт вуаль, что очень не нравится сканеру.&amp;lt;br/&amp;gt;Плывут цвета, бегут света...&amp;lt;br/&amp;gt;Для этого и нужны raw файлы, чтобы тихими зимними вечерами ковырять их в Photoshop :)&amp;lt;/p&amp;gt;&amp;lt;h1&amp;gt;Много светлого в кадре&amp;lt;/h1&amp;gt;&amp;lt;p&amp;gt;Итак, мой любимый вариант, Kodak GT 800, снятая как 200.&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Как видим, машина и небо на авто-скане &amp;quot;выбиты&amp;quot;&amp;lt;br/&amp;gt;&amp;lt;img src=&amp;quot;/images/2015.01.15/index07_auto_small.jpg&amp;quot; alt=&amp;quot; &amp;quot;&amp;quot;/&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Не самый удачный мой профиль, но всё же &amp;quot;небо в тучах&amp;quot;&amp;lt;br/&amp;gt;&amp;lt;img src=&amp;quot;/images/2015.01.15/index07_small.jpg&amp;quot; alt=&amp;quot; &amp;quot;&amp;quot;/&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;h1&amp;gt;Много темного в кадре&amp;lt;/h1&amp;gt;&amp;lt;p&amp;gt;Автоматика сканера пытается вытянуть все из теней&amp;lt;br/&amp;gt;&amp;lt;img src=&amp;quot;/images/2015.01.15/index00_auto_small.jpg&amp;quot; alt=&amp;quot; &amp;quot;&amp;quot;/&amp;gt;&amp;lt;/p&amp;gt;&amp;lt;p&amp;gt;Для raw это не проблема&amp;lt;br/&amp;gt;&amp;lt;img src=&amp;quot;/images/2015.01.15/index00_small.jpg&amp;quot; alt=&amp;quot; &amp;quot;&amp;quot;/&amp;gt;&amp;lt;/p&amp;gt;</description>	  
     </item>
 
   </channel> 
